@@ -15,3 +15,8 @@ That should do it. The clone will proceed but eventually hang. Removing GIT_SSH_
 Regards, 
 Randall 
 (rsbecker@nexbridge.com)
+
+20Sep18:
+Randall and Robinhad a Skype session where Robin shared his screen.
+We ran an OSS session on \BWNS02 by entering "OSH" to the TACL prompt but discovered I need an OSS Home Directory before we can test.
+Hence I asked Steve and Gus if they could set that up for me, since it requires and Admin with Safeguard credentials to set up.
