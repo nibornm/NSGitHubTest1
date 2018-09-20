@@ -14,3 +14,4 @@ That should do it. The clone will proceed but eventually hang. Removing GIT_SSH_
   
 Regards, 
 Randall 
+(rsbecker@nexbridge.com)
